@@ -1,0 +1,16 @@
+//Portugol, VisuAlg
+
+Algoritmo "Num_Positivo"
+
+Var:
+  N: inteiro
+  
+Inicio:
+escreva ("Digite um número N: ")
+leia (N)
+se N >= 0 entao
+  escreva (N, " é positivo.")
+  senao
+    escreva (N, " é negativo.")
+fimse
+Fimalgoritmo
