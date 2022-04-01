@@ -1,11 +1,11 @@
-//Portugol, VisuAlg
+// Portugol, VisuAlg
 
 Algoritmo "Num_Positivo"
 
-Var:
+Var
   N: inteiro
   
-Inicio:
+Inicio
 escreva ("Digite um número N: ")
 leia (N)
 se N >= 0 entao
