@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Python, Spyder Editor
+# Python. Spyder IDE. 01/04/2022.
 
 N = int(input("Digite um número N: "))
 if N >= 0:
